@@ -1,1 +1,1 @@
-# 2048_Game_UsingJAVA
+# 2048_Game_Using_Core_JAVA
